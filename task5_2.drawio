@@ -1,0 +1,87 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0">
+  <diagram name="Страница — 1" id="2DlfEyJOvXWLkgW64NaA">
+    <mxGraphModel dx="1430" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P3n0T5HFvSZ0by9wSuex-1" value="Пользователь" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="40" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P3n0T5HFvSZ0by9wSuex-3" value="Кофемолка" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="180" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P3n0T5HFvSZ0by9wSuex-4" value="Контейнер для зерен" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="310" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P3n0T5HFvSZ0by9wSuex-5" value="Механизм измельчения" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="450" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P3n0T5HFvSZ0by9wSuex-6" value="Контейнер для молотого кофе" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="585" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P3n0T5HFvSZ0by9wSuex-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="P3n0T5HFvSZ0by9wSuex-1" target="P3n0T5HFvSZ0by9wSuex-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="180" as="sourcePoint" />
+            <mxPoint x="560" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P3n0T5HFvSZ0by9wSuex-8" value="&amp;nbsp; &amp;nbsp; 1. Добавляет зерна&lt;br&gt;&amp;nbsp; &amp;nbsp; 2. Выбирает степень помола&lt;br&gt;&amp;nbsp; &amp;nbsp; 3. Нажимает &quot;Старт&quot;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="80" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="P3n0T5HFvSZ0by9wSuex-9" value="4. Активирует механизм" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="250" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P3n0T5HFvSZ0by9wSuex-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="P3n0T5HFvSZ0by9wSuex-3" target="P3n0T5HFvSZ0by9wSuex-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="400" as="sourcePoint" />
+            <mxPoint x="440" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P3n0T5HFvSZ0by9wSuex-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="P3n0T5HFvSZ0by9wSuex-4" target="P3n0T5HFvSZ0by9wSuex-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="400" as="sourcePoint" />
+            <mxPoint x="480" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P3n0T5HFvSZ0by9wSuex-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="P3n0T5HFvSZ0by9wSuex-5" target="P3n0T5HFvSZ0by9wSuex-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="550" as="sourcePoint" />
+            <mxPoint x="490" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P3n0T5HFvSZ0by9wSuex-16" value="5. Начинает измельчать" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="390" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P3n0T5HFvSZ0by9wSuex-17" value="6. Перемалывает зерна" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="520" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P3n0T5HFvSZ0by9wSuex-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="P3n0T5HFvSZ0by9wSuex-6" target="P3n0T5HFvSZ0by9wSuex-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="340" as="sourcePoint" />
+            <mxPoint x="170" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="610" />
+              <mxPoint x="170" y="205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P3n0T5HFvSZ0by9wSuex-19" value="7. Перемещает молотый кофе" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="180" y="230" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P3n0T5HFvSZ0by9wSuex-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="P3n0T5HFvSZ0by9wSuex-3" target="P3n0T5HFvSZ0by9wSuex-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="210" as="sourcePoint" />
+            <mxPoint x="570" y="30" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="205" />
+              <mxPoint x="570" y="65" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P3n0T5HFvSZ0by9wSuex-21" value="8. Завершает процесс" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="30" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
